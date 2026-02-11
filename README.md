@@ -41,3 +41,4 @@ Contains data from the National Credit Union Administration (NCUA) listing of fe
 
 - [Credit Union Website Addresses](https://github.com/credit-union-datasets/credit-union-websites) - website addresses scraped from NCUA, keyed by charter number
 - [Credit Union Membership Data](https://github.com/credit-union-datasets/credit-union-membership) - membership data scraped from credit union websites
+- [Credit Union HYSA Rates](https://github.com/credit-union-datasets/credit-union-hysa) - high-yield savings account rates at credit unions
